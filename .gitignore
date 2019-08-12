@@ -1,0 +1,8 @@
+R_code/*.rds
+data/*.rds
+stan_code/*.rds
+R_code/*.pdf
+data/PE_FL_ambient_conditions_after_interp.csv
+data/sealanta_FL_ambient_conditions_after_interp.csv
+README.html
+
